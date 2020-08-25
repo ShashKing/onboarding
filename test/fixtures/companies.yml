@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  previous_company: MyString
+  total_experience: MyString
+  previous_designtion: MyString
+  designation: MyString
+
+two:
+  previous_company: MyString
+  total_experience: MyString
+  previous_designtion: MyString
+  designation: MyString
